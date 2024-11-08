@@ -1,4 +1,5 @@
-## Hi there 👋
+![received_489212860801657](https://github.com/user-attachments/assets/76927d9d-9f7d-41db-8507-155a3c730a12)
+ Hi there 👋
 
 <!--
 **amirkakaszka/amirkakaszka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
